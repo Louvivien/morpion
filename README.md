@@ -3,6 +3,10 @@
 Vivien Richaud - Cyril Avronsart
 aidé par Florian Pintot & Alexis Réau
 
+N'oubliez pas d'installer les gem en faisant : gem install bundler
+-----------------------------------------------------------------
+
+
 À L'initialisation du jeu chaque joueur choisie un pseudo.
 
 Chaque joueur joue à tour de rôle.
