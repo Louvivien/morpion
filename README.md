@@ -1,7 +1,7 @@
 # Jeu de Morpion
 
 Vivien Richaud - Cyril Avronsart
-aidé par Florian Pintot & Alexis Réau
+aidés par Florian Pintot & Alexis Réau
 
 N'oubliez pas d'installer les gem en faisant : gem install bundler
 -----------------------------------------------------------------
